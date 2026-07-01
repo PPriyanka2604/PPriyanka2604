@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:9333EA&height=200&section=header&text=Hi%20there,%20I'm%20Priyanka%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;Computer+Vision+Enthusiast;LLM+%26+RAG+Builder;AI+Agent+Developer;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=40&color=A855F7&vCenter=true&size=22" />
+<img src="assets/banner.svg" width="100%"/>
 
 <br/>
 
