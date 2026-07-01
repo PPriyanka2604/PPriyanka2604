@@ -45,7 +45,7 @@ I build practical AI systems spanning **computer vision**, **retrieval-augmented
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,mongodb,docker,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,mongodb,docker,git,linux,vscode,antigravity&theme=dark" />
 
 <br/><br/>
 
