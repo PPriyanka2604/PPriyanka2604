@@ -1,104 +1,141 @@
 <div align="center">
 
-# Hi, I'm Priyanka Pabbathi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:9333EA&height=200&section=header&text=Hi%20there,%20I'm%20Priyanka%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-### AI/ML Engineer · Computer Vision · LLMs · RAG · AI Agents
+<img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;Computer+Vision+Enthusiast;LLM+%26+RAG+Builder;AI+Agent+Developer;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=40&color=A855F7&vCenter=true&size=22" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-pabbathi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pabbathipriyanka0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PPriyanka2604)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-pabbathi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabbathipriyanka0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PPriyanka2604)
+
+<img src="https://komarev.com/ghpvc/?username=PPriyanka2604&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/PPriyanka2604?style=for-the-badge&color=a855f7&label=FOLLOWERS&logo=github" />
 
 </div>
 
----
+<br/>
 
-### About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I build practical AI systems spanning computer vision, retrieval-augmented generation, and multi-agent workflows. Currently focused on turning research-grade models into production-ready tools — from defect detection pipelines to LLM-powered assistants and automation agents.
+### 🤖 About Me
 
-- 🔭 Working on AI agent workflows, RAG pipelines, and computer vision applications
-- 🌱 Deepening my skills in multi-agent systems, MLOps, and LLM deployment
-- 📫 Reach me at **priyankapabbathi26@gmail.com**
+I build practical AI systems spanning **computer vision**, **retrieval-augmented generation**, and **multi-agent workflows** — turning research-grade models into production-ready tools.
+
+- 🔭 Currently building AI agent workflows, RAG pipelines & CV applications
+- 🌱 Deepening skills in multi-agent systems, MLOps & LLM deployment
+- 💬 Ask me about Computer Vision, LangGraph, RAG, or n8n automation
+- 📫 **priyankapabbathi26@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+> 💡 *"The best way to predict the future is to invent it."*
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f6c1b0e-8a76-4090-9c8b-8bde9d6bd726.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-**AI / ML / DL**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,mongodb,docker,git,linux,vscode&theme=dark" />
 
-**LLM / Agents / RAG**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+<br/><br/>
 
-**Backend & Tools**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+**🌱 Currently Learning:** Advanced Computer Vision · Multi-Agent Systems · Generative AI · MLOps & Deployment
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Pinned Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🎯 Wheel Center & Notch Detection](https://github.com/PPriyanka2604/wheel-center-notch-detection)**
-YOLO-based computer vision system for wheel center and notch detection, covering preprocessing, annotation, training, evaluation, and inference.
-`Python` `YOLO` `OpenCV`
+**🎯 [Wheel Center & Notch Detection](https://github.com/PPriyanka2604/wheel-center-notch-detection)**
+YOLO-based CV system for wheel center & notch detection — preprocessing, annotation, training, evaluation, inference pipeline.
+
+![Stars](https://img.shields.io/github/stars/PPriyanka2604/wheel-center-notch-detection?style=flat-square&color=eab308)
+![Forks](https://img.shields.io/github/forks/PPriyanka2604/wheel-center-notch-detection?style=flat-square&color=60a5fa)
+![Lang](https://img.shields.io/github/languages/top/PPriyanka2604/wheel-center-notch-detection?style=flat-square&color=6D28D9)
 
 </td>
 <td width="50%" valign="top">
 
-**[🧠 HAR Hybrid Deep Learning Models](https://github.com/PPriyanka2604/HAR-Hybrid-DeepLearning-Models)**
-Human Activity Recognition on the MHEALTH sensor dataset using 7 single deep learning models plus hybrid 2- and 3-model architectures (CNN, LSTM, GRU, Transformer, WaveNet, RBFNN).
-`Python` `TensorFlow` `Deep Learning`
+**🧠 [HAR Hybrid Deep Learning Models](https://github.com/PPriyanka2604/HAR-Hybrid-DeepLearning-Models)**
+Human Activity Recognition on MHEALTH — 7 single models + hybrid 2/3-model architectures (CNN, LSTM, GRU, Transformer, WaveNet, RBFNN).
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[💼 AI Smart Job Assistant](https://github.com/PPriyanka2604/AI-Based-Smart-Job-Recommendation-and-Notification-System)**
-Local, privacy-first job recommendation platform that parses resumes, matches jobs via RAG + local LLM embeddings, scores fit, flags scam listings, and sends automated email alerts.
-`Streamlit` `Ollama` `RAG` `FAISS`
-
-</td>
-<td width="50%" valign="top">
-
-**[🤖 AutoStream Agent](https://github.com/PPriyanka2604/autostream-agent)**
-Conversational AI agent that converts chat interactions into qualified leads using intent detection, RAG-powered responses, and stateful multi-turn conversations via LangGraph.
-`LangGraph` `FastAPI` `RAG`
+![Stars](https://img.shields.io/github/stars/PPriyanka2604/HAR-Hybrid-DeepLearning-Models?style=flat-square&color=eab308)
+![Forks](https://img.shields.io/github/forks/PPriyanka2604/HAR-Hybrid-DeepLearning-Models?style=flat-square&color=60a5fa)
+![Lang](https://img.shields.io/github/languages/top/PPriyanka2604/HAR-Hybrid-DeepLearning-Models?style=flat-square&color=6D28D9)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[📊 n8n Workflow Popularity System](https://github.com/PPriyanka2604/n8n-popularity-system)**
-Analytics platform that aggregates engagement data from YouTube, the n8n Community Forum, and Google Trends to rank the most popular automation workflows, exposed via REST API and dashboard.
-`Python` `REST API` `Data Aggregation`
+**💼 [AI Smart Job Assistant](https://github.com/PPriyanka2604/AI-Based-Smart-Job-Recommendation-and-Notification-System)**
+Local, privacy-first job platform — resume parsing, RAG job matching via local LLM embeddings, scam detection, automated email alerts.
+
+![Stars](https://img.shields.io/github/stars/PPriyanka2604/AI-Based-Smart-Job-Recommendation-and-Notification-System?style=flat-square&color=eab308)
+![Forks](https://img.shields.io/github/forks/PPriyanka2604/AI-Based-Smart-Job-Recommendation-and-Notification-System?style=flat-square&color=60a5fa)
+![Lang](https://img.shields.io/github/languages/top/PPriyanka2604/AI-Based-Smart-Job-Recommendation-and-Notification-System?style=flat-square&color=6D28D9)
 
 </td>
 <td width="50%" valign="top">
 
-**[📝 Text Summarization App](https://github.com/PPriyanka2604/text-summarization-app)**
-Streamlit app for summarizing text, PDFs, and web pages using both extractive (LexRank) and abstractive (BART-large-CNN) techniques.
-`Streamlit` `Hugging Face` `NLP`
+**🤖 [AutoStream Agent](https://github.com/PPriyanka2604/autostream-agent)**
+Conversational AI agent turning chats into qualified leads — intent detection, RAG responses, stateful multi-turn flow via LangGraph.
+
+![Stars](https://img.shields.io/github/stars/PPriyanka2604/autostream-agent?style=flat-square&color=eab308)
+![Forks](https://img.shields.io/github/forks/PPriyanka2604/autostream-agent?style=flat-square&color=60a5fa)
+![Lang](https://img.shields.io/github/languages/top/PPriyanka2604/autostream-agent?style=flat-square&color=6D28D9)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 [n8n Workflow Popularity System](https://github.com/PPriyanka2604/n8n-popularity-system)**
+Analytics platform ranking popular n8n workflows using engagement data from YouTube, forums & Google Trends — REST API + dashboard.
+
+![Stars](https://img.shields.io/github/stars/PPriyanka2604/n8n-popularity-system?style=flat-square&color=eab308)
+![Forks](https://img.shields.io/github/forks/PPriyanka2604/n8n-popularity-system?style=flat-square&color=60a5fa)
+![Lang](https://img.shields.io/github/languages/top/PPriyanka2604/n8n-popularity-system?style=flat-square&color=6D28D9)
+
+</td>
+<td width="50%" valign="top">
+
+**📝 [Text Summarization App](https://github.com/PPriyanka2604/text-summarization-app)**
+Streamlit app summarizing text, PDFs & web pages using extractive (LexRank) and abstractive (BART-large-CNN) techniques.
+
+![Stars](https://img.shields.io/github/stars/PPriyanka2604/text-summarization-app?style=flat-square&color=eab308)
+![Forks](https://img.shields.io/github/forks/PPriyanka2604/text-summarization-app?style=flat-square&color=60a5fa)
+![Lang](https://img.shields.io/github/languages/top/PPriyanka2604/text-summarization-app?style=flat-square&color=6D28D9)
 
 </td>
 </tr>
@@ -110,19 +147,41 @@ Streamlit app for summarizing text, PDFs, and web pages using both extractive (L
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PPriyanka2604&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPriyanka2604&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PPriyanka2604&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=percentile" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PPriyanka2604&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PPriyanka2604&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPriyanka2604&layout=donut&theme=radical&hide_border=true" />
 
 </div>
 
-> **Note:** These widgets pull live from your GitHub username automatically — no setup needed once this file is in your profile repo.
+---
+
+### 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PPriyanka2604&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PPriyanka2604&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building AI solutions that create real impact*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:6D28D9&height=100&section=footer"/>
+
+**✨ Building AI solutions that create real impact ✨**
 
 </div>
